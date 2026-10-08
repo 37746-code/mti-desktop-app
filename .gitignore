@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyInstaller / Build
+build/
+dist/
+*.spec
+
+# Virtualenv
+venv/
+.venv/
+
+# Generated reports
+session_report.txt
