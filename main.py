@@ -71,7 +71,7 @@ class CustomMap:
             return self._values[idx]
         return None
 
-# 4. Переопределение 10 компонентов окна (UI)
+
 class CustomMainWindow(QMainWindow): pass
 class CustomWidget(QWidget): pass
 class CustomButton(QPushButton): pass
